@@ -15,15 +15,6 @@ Numpy vs Python sequence
 **Time:** NumPy arrays generally offer faster computations due to their optimized as its written in C language
 This means they're designed to run as fast and efficiently as possible. C is known for its speed and closeness to hardware, making it an optimal choice for performance-critical operation
 
-
-
-
-
-
-
-
-
-
-[Basics of numpy](https://colab.research.google.com/drive/1OCFJM462nrY9ptokCkwtepG65WBjMBZb)
+https://colab.research.google.com/drive/1OCFJM462nrY9ptokCkwtepG65WBjMBZb
 
 [Numpy Array Creation](https://towardsdatascience.com/here-are-30-ways-that-will-make-you-a-pro-at-creating-numpy-arrays-932b77d9a1eb)
